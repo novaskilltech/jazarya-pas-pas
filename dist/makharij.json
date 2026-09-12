@@ -1,0 +1,699 @@
+[
+  {
+    "id": "overview",
+    "letters": "المخارج",
+    "verses": [
+      9
+    ],
+    "image": "/assets/makharij/overview.jpg",
+    "source": {
+      "name": "Assabeel Institute",
+      "url": "https://assabeelinstitute.weebly.com/oral-cavity--throat.html",
+      "imageUrl": "https://assabeelinstitute.weebly.com/uploads/1/1/5/8/11589554/poster_of_makharij_-_for_teacher_-.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/9",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Vue générale",
+      "observation": "Repère les cinq grandes régions avant les points particuliers.",
+      "note": ""
+    },
+    "ar": {
+      "title": "نظرة عامة",
+      "observation": "تعرّف أولًا على المخارج العامة الخمسة.",
+      "note": ""
+    },
+    "width": 750,
+    "height": 850
+  },
+  {
+    "id": "jawf",
+    "letters": "ا و ي",
+    "verses": [
+      10
+    ],
+    "image": "/assets/makharij/jawf.jpg",
+    "source": {
+      "name": "Librairie Sana — Ayman Suwayd",
+      "url": "https://www.librairie-sana.com/17121-large_default/at-tajwid-al-moussawar-qr-code-2022-version-french-arabic-by-ayman-swe%C3%AFd-translated-by-farid-ouyalize.jpg",
+      "imageUrl": "https://www.librairie-sana.com/17121-large_default/at-tajwid-al-moussawar-qr-code-2022-version-french-arabic-by-ayman-swe%C3%AFd-translated-by-farid-ouyalize.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/9",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Les voyelles longues",
+      "observation": "Observe la cavité de la bouche et de la gorge.",
+      "note": "ا après une fatḥa ; و après une ḍamma ; ي après une kasra : les trois lettres sont sans voyelle. Le jawf est une cavité, sans point de contact précis."
+    },
+    "ar": {
+      "title": "حروف المد",
+      "observation": "تأمّل الفراغ داخل الفم والحلق.",
+      "note": "الألف بعد فتح، والواو الساكنة بعد ضم، والياء الساكنة بعد كسر. الجوف فراغ وليس نقطة التقاء محددة."
+    },
+    "width": 800,
+    "height": 800
+  },
+  {
+    "id": "throat",
+    "letters": "ء هـ ع ح غ خ",
+    "verses": [
+      11,
+      12
+    ],
+    "image": "/assets/makharij/throat.jpg",
+    "source": {
+      "name": "PPT Online — أيمن سويد",
+      "url": "https://ppt-online.org/214076",
+      "imageUrl": "https://cf.ppt-online.org/files/slide/d/DUlzv9Bcpg3QMy2F40X5WnRhaZVPk7dIH6xwTG/slide-8.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/9",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Les lettres de la gorge",
+      "observation": "Repère trois niveaux, avec deux lettres à chacun.",
+      "note": "Au fond : ء et هـ. Au milieu : ع et ح. À l’entrée de la gorge, du côté de la bouche : غ et خ."
+    },
+    "ar": {
+      "title": "حروف الحلق",
+      "observation": "ميّز ثلاثة مواضع، في كل موضع حرفان.",
+      "note": "أقصى الحلق: ء، هـ. وسط الحلق: ع، ح. أدنى الحلق إلى الفم: غ، خ."
+    },
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "id": "qaf",
+    "letters": "ق",
+    "verses": [
+      12
+    ],
+    "image": "/assets/makharij/qaf.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-81313200-1393620622.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/9",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le qāf",
+      "observation": "Repère le contact à l’arrière de la langue.",
+      "note": ""
+    },
+    "ar": {
+      "title": "القاف",
+      "observation": "لاحظ التقاء أقصى اللسان بالحنك الأعلى.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "kaf",
+    "letters": "ك",
+    "verses": [
+      12,
+      13
+    ],
+    "image": "/assets/makharij/kaf.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-33974600-1393620667.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/9",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le kāf",
+      "observation": "Compare son contact à celui du ق.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الكاف",
+      "observation": "قارن موضعه بموضع القاف؛ مخرجه أسفل منه.",
+      "note": ""
+    },
+    "width": 512,
+    "height": 736
+  },
+  {
+    "id": "jim",
+    "letters": "ج",
+    "verses": [
+      13
+    ],
+    "image": "/assets/makharij/jim.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-61696500-1393620250.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le jīm",
+      "observation": "Observe la partie centrale de la langue.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الجيم",
+      "observation": "تأمّل وسط اللسان وما يقابله من الحنك.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "shin",
+    "letters": "ش",
+    "verses": [
+      13
+    ],
+    "image": "/assets/makharij/shin.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-96049000-1393620360.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le shīn",
+      "observation": "Observe le milieu de la langue, puis compare avec ج.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الشين",
+      "observation": "لاحظ وسط اللسان، ثم قارن بالجيم.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "ya",
+    "letters": "ي",
+    "verses": [
+      13
+    ],
+    "image": "/assets/makharij/ya.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-54177200-1393620869.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le yāʾ non prolongé",
+      "observation": "Repère le milieu de la langue ; distingue ce ي du yāʾ prolongé.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الياء غير المدية",
+      "observation": "لاحظ وسط اللسان، وميّز هذه الياء من ياء المد.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "dad",
+    "letters": "ض",
+    "verses": [
+      13,
+      14
+    ],
+    "image": "/assets/makharij/dad.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-30579800-1393620444.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le ḍād",
+      "observation": "Repère le bord de la langue près des molaires supérieures.",
+      "note": "Le contact se fait sur le bord de la langue, près des molaires supérieures. Cette coupe de profil ne montre pas toute la surface latérale."
+    },
+    "ar": {
+      "title": "الضاد",
+      "observation": "تتبّع حافة اللسان عند الأضراس العليا.",
+      "note": "الاتصال من حافة اللسان مع الأضراس العليا؛ ولا يُظهر هذا المقطع الجانبي كامل مساحة الاتصال."
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "lam",
+    "letters": "ل",
+    "verses": [
+      14
+    ],
+    "image": "/assets/makharij/lam.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-59616500-1393620711.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le lām",
+      "observation": "Observe les bords antérieurs de la langue jusqu’à sa pointe.",
+      "note": ""
+    },
+    "ar": {
+      "title": "اللام",
+      "observation": "تأمّل الحافتين الأماميتين وصولًا إلى طرف اللسان.",
+      "note": ""
+    },
+    "width": 510,
+    "height": 736
+  },
+  {
+    "id": "nun",
+    "letters": "ن",
+    "verses": [
+      15
+    ],
+    "image": "/assets/makharij/nun.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-67695800-1393620792.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le nūn",
+      "observation": "Repère la pointe de la langue près de la gencive supérieure.",
+      "note": ""
+    },
+    "ar": {
+      "title": "النون",
+      "observation": "لاحظ طرف اللسان عند اللثة العليا.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "ra",
+    "letters": "ر",
+    "verses": [
+      15
+    ],
+    "image": "/assets/makharij/ra.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-16439000-1393620290.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le rāʾ",
+      "observation": "Compare la position de la pointe avec celle du ن.",
+      "note": "Rāʾ emphatique : cette planche illustre la ر المفخمة. La position varie pour une rāʾ amincie ; consulte le commentaire."
+    },
+    "ar": {
+      "title": "الراء",
+      "observation": "قارن موضع طرف اللسان بموضعه في النون.",
+      "note": "الراء المفخمة: يوضح الرسم حالة التفخيم، ولا تُتخذ هذه الهيئة نموذجًا للراء المرققة. راجع الشرح المفصل."
+    },
+    "width": 510,
+    "height": 736
+  },
+  {
+    "id": "ta",
+    "letters": "ط",
+    "verses": [
+      16
+    ],
+    "image": "/assets/makharij/ta.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-99250600-1393620486.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le ṭāʾ",
+      "observation": "Observe le contact derrière les incisives supérieures.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الطاء",
+      "observation": "لاحظ طرف اللسان عند أصول الثنايا العليا.",
+      "note": ""
+    },
+    "width": 510,
+    "height": 736
+  },
+  {
+    "id": "dt",
+    "letters": "د ت",
+    "verses": [
+      16
+    ],
+    "image": "/assets/makharij/dt.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-45241600-1393620165.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/10",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le dāl et le tāʾ",
+      "observation": "Compare cette zone avec celle du ط.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الدال والتاء",
+      "observation": "قارن موضع الاتصال بموضع الطاء.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "sad",
+    "letters": "ص",
+    "verses": [
+      16,
+      17
+    ],
+    "image": "/assets/makharij/sad.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-85581700-1393620406.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le ṣād",
+      "observation": "Repère la pointe près des incisives inférieures.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الصاد",
+      "observation": "لاحظ قرب الطرف من الثنايا السفلى.",
+      "note": ""
+    },
+    "width": 510,
+    "height": 736
+  },
+  {
+    "id": "sz",
+    "letters": "س ز",
+    "verses": [
+      16,
+      17
+    ],
+    "image": "/assets/makharij/sz.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-66617300-1393620325.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le sīn et le zāy",
+      "observation": "Compare cette position avec celle du ص.",
+      "note": ""
+    },
+    "ar": {
+      "title": "السين والزاي",
+      "observation": "قارن هذه الهيئة بهيئة الصاد.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "za",
+    "letters": "ظ",
+    "verses": [
+      17,
+      18
+    ],
+    "image": "/assets/makharij/za.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-05558100-1393620529.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le ẓāʾ",
+      "observation": "Observe la pointe au bord des incisives supérieures.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الظاء",
+      "observation": "تأمّل طرف اللسان عند أطراف الثنايا العليا.",
+      "note": ""
+    },
+    "width": 512,
+    "height": 736
+  },
+  {
+    "id": "dhth",
+    "letters": "ذ ث",
+    "verses": [
+      17,
+      18
+    ],
+    "image": "/assets/makharij/dhth.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-58933300-1393620210.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le dhāl et le thāʾ",
+      "observation": "Compare le contact avec celui du ظ.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الذال والثاء",
+      "observation": "قارن موضع التقاء اللسان والأسنان بموضع الظاء.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "fa",
+    "letters": "ف",
+    "verses": [
+      18
+    ],
+    "image": "/assets/makharij/fa.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-08486900-1393620580.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le fāʾ",
+      "observation": "Observe le contact entre lèvre inférieure et incisives supérieures.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الفاء",
+      "observation": "لاحظ باطن الشفة السفلى مع أطراف الثنايا العليا.",
+      "note": ""
+    },
+    "width": 496,
+    "height": 736
+  },
+  {
+    "id": "ba",
+    "letters": "ب",
+    "verses": [
+      19
+    ],
+    "image": "/assets/makharij/ba.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-34363400-1393619842.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le bāʾ",
+      "observation": "Observe la fermeture des deux lèvres.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الباء",
+      "observation": "تأمّل انطباق الشفتين.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "mim",
+    "letters": "م",
+    "verses": [
+      19
+    ],
+    "image": "/assets/makharij/mim.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-93053100-1393620749.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le mīm",
+      "observation": "Observe les lèvres fermées et la composante nasale.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الميم",
+      "observation": "تأمّل انطباق الشفتين مع الغنة.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "waw",
+    "letters": "و",
+    "verses": [
+      19
+    ],
+    "image": "/assets/makharij/waw.jpg",
+    "source": {
+      "name": "YallaGroup · 2014",
+      "url": "https://forums.yallagroup.net/topic/73117-مخارج-الحروف-شرح-وافر-بالصور/",
+      "imageUrl": "https://forums.yallagroup.net/uploads/monthly_02_2014/post-19379-0-49527100-1393620831.jpg"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "Le wāw non prolongé",
+      "observation": "Observe l’arrondissement des lèvres ; distingue و du wāw prolongé.",
+      "note": ""
+    },
+    "ar": {
+      "title": "الواو غير المدية",
+      "observation": "لاحظ استدارة الشفتين، وميّز هذه الواو من واو المد.",
+      "note": ""
+    },
+    "width": 509,
+    "height": 736
+  },
+  {
+    "id": "ghunna",
+    "letters": "الغنة",
+    "verses": [
+      19
+    ],
+    "image": "/assets/makharij/ghunna.png",
+    "source": {
+      "name": "Jo Academy",
+      "url": "https://www.joacademy.com/e-school/lesson/التلاوةُ-والتجويدُ-مخرجُ-الخيشوم-3146",
+      "imageUrl": "https://content.joacademy.com/images/%D8%AE%D9%8A%D8%B4%D9%88%D9%85_1655234209.png"
+    },
+    "reference": {
+      "url": "https://shamela.ws/book/21580/11",
+      "fr": "Ṣafwat Maḥmūd Sālim, Fatḥ Rabb al-Bariyya, chapitre des points d’articulation.",
+      "ar": "صفوت محمود سالم، فتح رب البرية، باب مخارج الحروف."
+    },
+    "fr": {
+      "title": "La ghunna",
+      "observation": "Repère la cavité nasale associée à la ghunna.",
+      "note": "Ce dessin situe la cavité nasale. Il ne décrit pas la durée de la ghunna ; ن et م ont aussi une articulation orale."
+    },
+    "ar": {
+      "title": "الغنة",
+      "observation": "تعرّف على الخيشوم، مخرج الغنة.",
+      "note": "يبيّن الرسم موضع الخيشوم، ولا يحدد زمن الغنة. وللنون والميم مخرج فموي أيضًا."
+    },
+    "width": 386,
+    "height": 421
+  }
+]

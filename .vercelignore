@@ -1,0 +1,6 @@
+.git
+.openai
+.vercel
+*.py
+check-reader.mjs
+DESIGN.md

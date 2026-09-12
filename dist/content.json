@@ -1,0 +1,666 @@
+[
+  {
+    "id": 1,
+    "end": 8,
+    "ar": "المقدمة ومقاصد النظم",
+    "fr": "Introduction et objectifs du poème",
+    "bodyAr": "يفتتح الناظم بالتعريف بنفسه وإظهار الافتقار إلى عفو الله، ثم يحمد الله ويصلي على نبيه محمد صلى الله عليه وسلم، ويدعو للمقرئ والقارئ المحب للقرآن. ويحدد منذ البداية موضوع المنظومة: القدر الذي يحتاج إليه قارئ القرآن من المخارج والصفات، وضبط الأداء، والوقف، والرسم العثماني. فالأبيات ليست كتاباً في جميع مسائل القراءات، بل خريطة مركزة لأصول لا يستغني عنها طالب الإتقان. وقوله «قبل الشروع» يرشد إلى أن المعرفة النظرية تسبق التدريب، ثم يصحح الأداء بالمشافهة.",
+    "bodyFr": "L’auteur commence par se présenter et manifester son besoin du pardon d’Allah. Il Le loue, prie pour le prophète Muhammad — paix et bénédictions sur lui — et associe à son invocation ceux qui enseignent, récitent et aiment le Coran. Il délimite ensuite son sujet : les articulations, les caractéristiques des lettres, la maîtrise de la récitation, les arrêts et certains éléments du rasm. Le poème n’est donc pas une encyclopédie des lectures, mais une carte condensée des connaissances indispensables. La théorie précède l’entraînement, puis la récitation est corrigée oralement.",
+    "verses": [
+      {
+        "n": 1,
+        "text": "يَقُولُ رَاجِي عَفْوِ رَبٍّ سَامِعِ … مُحَمَّدُ ابْنُ الجَزَرِيِّ الشَّافِعِي"
+      },
+      {
+        "n": 2,
+        "text": "الحَمْدُ لِلَّهِ وَصَلَّى اللَّهُ … عَلَى نَبِيِّهِ وَمُصْطَفَاهُ"
+      },
+      {
+        "n": 3,
+        "text": "مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ … وَمُقْرِئِ القُرْآنِ مَعْ مُحِبِّهِ"
+      },
+      {
+        "n": 4,
+        "text": "وَبَعْدُ: إِنَّ هَذِهِ «مُقَدِّمَهْ … فِيمَا عَلَى قَارِئِهِ أَنْ يَعْلَمَهْ»"
+      },
+      {
+        "n": 5,
+        "text": "إِذْ وَاجِبٌ عَلَيْهِمُ مُحَتَّمُ … قَبْلَ الشُّرُوعِ أَوَّلاً أَنْ يَعْلَمُوا"
+      },
+      {
+        "n": 6,
+        "text": "مَخَارِجَ الحُرُوفِ وَالصِّفَاتِ … لِيَلْفِظُوا بِأَفْصَحِ اللُّغَاتِ"
+      },
+      {
+        "n": 7,
+        "text": "مُحَرِّرِي التَّجْوِيدِ وَالمَوَاقِفِ … وَمَا الَّذِي رُسِمَ فِي المَصَاحِفِ"
+      },
+      {
+        "n": 8,
+        "text": "مِنْ كُلِّ مَقْطُوعٍ وَمَوْصُولٍ بِهَا … وَتَاءِ أُنْثَى لَمْ تَكُنْ تُكْتَبْ بِـ «هَا»"
+      }
+    ],
+    "summaryFr": "Identifiez le sujet du poème, fixez son texte auprès d’un enseignant et reliez toujours théorie et pratique.",
+    "summaryAr": "اعرف موضوع النظم، واضبط المتن على شيخ، ولا تفصل العلم النظري عن التدريب."
+  },
+  {
+    "id": 9,
+    "end": 19,
+    "ar": "مخارج الحروف",
+    "fr": "Les points d’articulation",
+    "bodyAr": "اختار ابن الجزري عدّ المخارج الخاصة سبعة عشر. تبدأ بالجوف لحروف المد، ثم ثلاثة مخارج للحلق، ثم عشرة للسان، ثم مخرجان للشفتين، ثم الخيشوم للغنة. لمعرفة المخرج يُسكَّن الحرف أو يُشدَّد بعد همزة متحركة، ثم يُصغى إلى الموضع الذي ينقطع عنده الصوت. المخرج وصف لمكان الاعتماد، وليس رسماً ثابتاً لعضو واحد؛ فقد يشترك فيه عضوان. والأداء الصحيح لا يُستخرج من الرسم وحده، بل يعرض على شيخ متقن.",
+    "bodyFr": "Ibn al-Jazarī retient dix-sept points d’articulation spécifiques : la cavité buccale pour les lettres de prolongation, trois régions de la gorge, dix articulations de la langue, deux des lèvres et le passage nasal pour la ghunna. Pour repérer un point, on prononce la lettre immobile ou redoublée après une hamza vocalisée et l’on observe l’endroit où le son s’interrompt. Une articulation est une zone d’appui, non un simple dessin anatomique. Sa réalisation exacte doit être contrôlée auprès d’un enseignant compétent.",
+    "verses": [
+      {
+        "n": 9,
+        "text": "مَخَارِجُ الحُرُوفِ سَبْعَةَ عَشَرْ … عَلَى الَّذِي يَخْتَارُهُ مَنِ اخْتَبَرْ"
+      },
+      {
+        "n": 10,
+        "text": "فَأَلِفُ الجَوْفِ وَأُخْتَاهَا وَهِي … حُرُوفُ مَدٍّ لِلْهَوَاءِ تَنْتَهِي"
+      },
+      {
+        "n": 11,
+        "text": "ثُمَّ لِأَقْصَى الحَلْقِ: هَمْزٌ هَاءُ … ثُمَّ لِوَسْطِهِ: فَعَيْنٌ حَاءُ"
+      },
+      {
+        "n": 12,
+        "text": "أَدْنَاهُ: غَيْنٌ خَاؤُهَا، وَالقَافُ … أَقْصَى اللِّسَانِ فَوْقُ، ثُمَّ الكَافُ"
+      },
+      {
+        "n": 13,
+        "text": "أَسْفَلُ، وَالوَسْطُ: فَجِيمُ الشِّينُ يَا … وَالضَّادُ: مِنْ حَافَتِهِ إِذْ وَلِيَا"
+      },
+      {
+        "n": 14,
+        "text": "لَاضْرَاسَ مِنْ أَيْسَرَ أَوْ يُمْنَاهَا … وَاللَّامُ: أَدْنَاهَا لِمُنْتَهَاهَا"
+      },
+      {
+        "n": 15,
+        "text": "وَالنُّونُ: مِنْ طَرَفِهِ تَحْتُ اجْعَلُوا … وَالرَّا: يُدَانِيهِ لِظَهْرٍ أَدْخَلُ"
+      },
+      {
+        "n": 16,
+        "text": "وَالطَّاءُ وَالدَّالُ وَتَا: مِنْهُ وَمِنْ … عُلْيَا الثَّنَايَا، وَالصَّفِيرُ: مُسْتَكِنْ"
+      },
+      {
+        "n": 17,
+        "text": "مِنْهُ وَمِنْ فَوْقِ الثَّنَايَا السُّفْلَى … وَالظَّاءُ وَالذَّالُ وَثَا: لِلْعُلْيَا"
+      },
+      {
+        "n": 18,
+        "text": "مِنْ طَرَفَيْهِمَا، وَمِنْ بَطْنِ الشَّفَهْ … فَالْفَا مَعَ اطْرَافِ الثَّنَايَا المُشْرِفَهْ"
+      },
+      {
+        "n": 19,
+        "text": "لِلشَّفَتَيْنِ: الوَاوُ بَاءٌ مِيمُ … وَغُنَّةٌ: مَخْرَجُهَا الخَيْشُومُ"
+      }
+    ],
+    "summaryFr": "Repérez l’articulation par l’immobilisation, distinguez l’appui du trajet sonore et notez les lettres à corriger.",
+    "summaryAr": "حدِّد المخرج بالسكون، وميّز بين موضع الاعتماد ومسار الصوت، وسجّل الحروف التي تحتاج إلى تصحيح."
+  },
+  {
+    "id": 20,
+    "end": 26,
+    "ar": "صفات الحروف",
+    "fr": "Les caractéristiques des lettres",
+    "bodyAr": "الصفة كيفية تصاحب الحرف عند خروجه وتميزه عن غيره. ذكر الناظم الصفات المتضادة: الجهر والهمس، الشدة والرخاوة وبينهما التوسط، الاستعلاء والاستفال، الإطباق والانفتاح، والإذلاق والإصمات؛ ثم الصفات التي لا ضد لها كالصفير والقلقلة واللين والانحراف والتكرير والتفشي والاستطالة. المقصود من حفظ الجمل الجامعة أن تصبح مفتاحاً للمراجعة، لا بديلاً عن سماع الصفة وإتقانها. ويُحذر في الراء من إظهار التكرير، وفي الضاد من قطع الاستطالة.",
+    "bodyFr": "Une caractéristique est la manière dont une lettre se réalise à son point d’articulation. Le poème présente les couples opposés — voix et souffle, occlusion et écoulement, élévation et abaissement, fermeture et ouverture — puis des qualités sans contraire telles que le sifflement, la qalqala, la souplesse, la déviation, la répétition, la diffusion et l’allongement latéral. Les formules mnémotechniques facilitent la révision, mais ne remplacent pas l’écoute. Il faut notamment empêcher le roulement excessif du rā et préserver l’allongement propre au ḍād.",
+    "verses": [
+      {
+        "n": 20,
+        "text": "صِفَاتُهَا: جَهْرٌ، وَرِخْوٌ، مُسْتَفِلْ … مُنْفَتِحٌ، مُصْمَتَةٌ، وَالضِّدَّ: قُلْ"
+      },
+      {
+        "n": 21,
+        "text": "مَهْمُوسُهَا: «فَحَثَّهُ شَخْصٌ سَكَتْ» … شَدِيدُهَا: لَفْظُ «أَجِدْ قَطٍ بَكَتْ»"
+      },
+      {
+        "n": 22,
+        "text": "وَبَيْنَ رِخْوٍ وَالشَّدِيدِ: «لِنْ عُمَرْ» … وَسَبْعُ عُلْوٍ: «خُصَّ ضَغْطٍ قِظْ» حَصَرْ"
+      },
+      {
+        "n": 23,
+        "text": "وَصَادُ ضَادٌ طَاءُ ظَاءٌ: مُطْبَقَهْ … وَ «فَرَّ مِنْ لُبِّ»: الحُرُوفُ المُذْلَقَهْ"
+      },
+      {
+        "n": 24,
+        "text": "صَفِيرُهَا: صَادٌ وَزَايٌ سِينُ … قَلْقَلَةٌ: «قُطْبُ جَدٍ»، وَاللِّينُ"
+      },
+      {
+        "n": 25,
+        "text": "وَاوٌ وَيَاءٌ سُكِّنَا وَانْفَتَحَا … قَبْلَهُمَا، وَالِانْحِرَافُ صُحِّحَا"
+      },
+      {
+        "n": 26,
+        "text": "فِي اللَّامِ وَالرَّا، وَبِتَكْرِيرٍ جُعِلْ … وَلِلتَّفَشِّي: الشِّينُ، ضَاداً: اسْتَطِلْ"
+      }
+    ],
+    "summaryFr": "Mémorisez les caractéristiques par familles, puis observez leur effet dans une lettre réellement entendue.",
+    "summaryAr": "احفظ الصفات في مجموعاتها، ثم اختبر أثر كل صفة في حرف مسموع."
+  },
+  {
+    "id": 27,
+    "end": 33,
+    "ar": "حقيقة التجويد وطريق تحصيله",
+    "fr": "La réalité du tajwīd et son acquisition",
+    "bodyAr": "التجويد إعطاء الحروف حقوقها من الصفات اللازمة ومستحقاتها الناشئة عن التركيب، ورد كل حرف إلى مخرجه من غير تصنع. والمراد ليس التكلف ولا تحويل القراءة إلى تمارين صوتية منفصلة عن المعنى. أما قول الناظم «من لم يجود القرآن آثم» فليس على إطلاق واحد: اتفق أهل العلم على وجوب صيانة القراءة مما يغير الحرف أو المعنى بحسب الاستطاعة، أما دقائق التحسين والخلافات الأدائية فلا يُسوّى تركها باللحن الجلي عند عامة المكلفين. والطريق العملي هو كثرة العرض والتصحيح ورياضة اللسان.",
+    "bodyFr": "Le tajwīd consiste à donner aux lettres leurs droits permanents et ce que leur contexte exige, sans affectation. Le vers affirmant que celui qui ne récite pas correctement commet une faute doit être expliqué avec nuance : préserver les lettres et le sens de toute altération évitable est une obligation selon la capacité de chacun ; les détails d’embellissement et les divergences techniques ne sont pas placés au même niveau que l’erreur manifeste. L’acquisition réelle passe par la répétition, la présentation à un professeur et la correction régulière.",
+    "verses": [
+      {
+        "n": 27,
+        "text": "وَالأَخْذُ بِالتَّجْوِيدِ حَتْمٌ لَازِمُ … مَنْ لَمْ يُصَحِّحِ القُرَانَ آثِمُ"
+      },
+      {
+        "n": 28,
+        "text": "لِأَنَّهُ بِهِ الإِلَهُ أَنْزَلَا … وَهَكَذَا مِنْهُ إِلَيْنَا وَصَلَا"
+      },
+      {
+        "n": 29,
+        "text": "وَهُوَ أَيْضاً حِلْيَةُ التِّلَاوَةِ … وَزِينَةُ الأَدَاءِ وَالقِرَاءَةِ"
+      },
+      {
+        "n": 30,
+        "text": "وَهُوَ: «إِعْطَاءُ الحُرُوفِ حَقَّهَا … مِنْ صِفَةٍ لَهَا وَمُسْتَحَقَّهَا"
+      },
+      {
+        "n": 31,
+        "text": "وَرَدُّ كُلِّ وَاحِدٍ لِأَصْلِهِ … وَاللَّفْظُ فِي نَظِيرِهِ كَمِثْلِهِ"
+      },
+      {
+        "n": 32,
+        "text": "مُكَمَّلاً مِنْ غَيْرِ مَا تَكَلُّفِ … بِاللُّطْفِ فِي النُّطْقِ بِلَا تَعَسُّفِ»"
+      },
+      {
+        "n": 33,
+        "text": "وَلَيْسَ بَيْنَهُ وَبَيْنَ تَرْكِهِ … إِلَّا رِيَاضَةُ امْرِئٍ بِفَكِّهِ"
+      }
+    ],
+    "summaryFr": "Récitez naturellement, sans affectation, et corrigez en priorité ce qui modifie une lettre ou le sens.",
+    "summaryAr": "اقرأ بطبيعتك من غير تكلف، وصحح الخطأ الذي يغير الحرف أو المعنى أولاً."
+  },
+  {
+    "id": 34,
+    "end": 40,
+    "ar": "الترقيق والتنبيهات الأدائية",
+    "fr": "L’allègement et les précautions de prononciation",
+    "bodyAr": "ينبه الناظم إلى ظاهرة شائعة: انتقال التفخيم من حرف مستعل إلى حرف مجاور مستفل. الأصل ترقيق حروف الاستفال، والألف تتبع ما قبلها تفخيماً وترقيقاً. لذلك تُدرَّب الكلمات المذكورة ببطء مع تثبيت مخرج كل حرف، من غير فصل مصطنع بين الحروف. كما يؤكد صفتي الشدة والجهر في الباء والجيم، وإظهار القلقلة عند سكون حروف «قطب جد» بلا حركة زائدة، والعناية بالحاء والسين حيث تجاوران حروفاً قوية.",
+    "bodyFr": "Le poème combat la propagation involontaire de l’emphase vers les lettres légères voisines. En principe, les lettres d’abaissement restent légères et l’alif suit la lettre précédente. Les exemples doivent être travaillés lentement, sans séparer artificiellement les sons. Le texte rappelle aussi l’occlusion et la sonorité du bā et du jīm, la qalqala des lettres de « quṭbu jadd » lorsqu’elles sont immobiles, sans ajouter de voyelle, ainsi que la clarté du ḥā et du sīn.",
+    "verses": [
+      {
+        "n": 34,
+        "text": "فَرَقِّقَنْ مُسْتَفِلاً مِنْ أَحْرُفِ … وَحَاذِرَنْ تَفْخِيمَ لَفْظِ الأَلِفِ"
+      },
+      {
+        "n": 35,
+        "text": "وَهَمْزَ: «أَلْحَمْدُ، أَعُوذُ، إِهْدِنَا … أَللَّهِ» ثُمَّ لَامَ: «لِلَّهِ، لَنَا"
+      },
+      {
+        "n": 36,
+        "text": "وَلْيَتَلَطَّفْ، وَعَلَى اللَّهِ، وَلَا الضْ» … وَالمِيمَ مِنْ «مَخْمَصَةٍ» وَمِنْ «مَرَضْ»"
+      },
+      {
+        "n": 37,
+        "text": "وَبَاءَ: «بَرْقٍ، بَاطِلٍ، بِهِمْ، بِذِي» … وَاحْرِصْ عَلَى الشِّدَّةِ وَالجَهْرِ الَّذِي"
+      },
+      {
+        "n": 38,
+        "text": "فِيهَا وَفِي الجِيمِ؛ كَـ «حُبِّ، الصَّبْرِ … رَبْوَةٍ، اجْتُثَّتْ، وَحَجِّ، الفَجْرِ»"
+      },
+      {
+        "n": 39,
+        "text": "وَبَيِّنَنْ مُقَلْقَلاً إِنْ سَكَنَا … وَإِنْ يَكُنْ فِي الوَقْفِ كَانَ أَبْيَنَا"
+      },
+      {
+        "n": 40,
+        "text": "وَحَاءَ: «حَصْحَصَ، أَحَطْتُ، الحَقُّ» … وَسِينَ: «مُسْتَقِيمِ، يَسْطُو، يَسْقُو»"
+      }
+    ],
+    "summaryFr": "Empêchez la propagation de l’emphase et réalisez la qalqala sans voyelle ajoutée.",
+    "summaryAr": "امنع انتقال التفخيم، وأدِّ القلقلة من غير فتح أو كسر زائد."
+  },
+  {
+    "id": 41,
+    "end": 43,
+    "ar": "أحكام الراء",
+    "fr": "Les règles du rā",
+    "bodyAr": "ترقق الراء المكسورة، وترقق الساكنة بعد كسر أصلي إذا لم يقع بعدها حرف استعلاء في كلمتها. وتفخم في الصور المقابلة، مع مواضع تفصيل وخلاف مثل «فِرْق». وقول الناظم «وأخف تكريراً» لا يعني إعدام صفة التكرير، بل منع ارتعاد طرف اللسان مرات ظاهرة، ولا سيما عند تشديد الراء.",
+    "bodyFr": "Le rā vocalisé par une kasra est léger. Le rā immobile précédé d’une kasra originelle est également léger, sauf lorsqu’une lettre d’élévation le suit dans le même mot ; plusieurs cas demandent toutefois un détail supplémentaire, notamment « firq ». Cacher la répétition du rā signifie empêcher plusieurs battements visibles de la pointe de la langue, non supprimer sa caractéristique naturelle.",
+    "verses": [
+      {
+        "n": 41,
+        "text": "وَرَقِّقِ الرَّاءَ إِذَا مَا كُسِرَتْ … كَذَاكَ بَعْدَ الكَسْرِ حَيْثُ سَكَنَتْ"
+      },
+      {
+        "n": 42,
+        "text": "إِنْ لَمْ تَكُنْ مِنْ قَبْلِ حَرْفِ اسْتِعْلَا … أَوْ كَانَتِ الكَسْرَةُ لَيْسَتْ أَصْلَا"
+      },
+      {
+        "n": 43,
+        "text": "وَالخُلْفُ فِي «فِرْقٍ»؛ لِكَسْرٍ يُوجَدُ … وَأَخْفِ تَكْرِيراً إِذَا تُشَدَّدُ"
+      }
+    ],
+    "summaryFr": "Reliez le statut du rā à sa voyelle et à son environnement ; évitez les battements répétés.",
+    "summaryAr": "اربط حكم الراء بحركتها وما قبلها وما بعدها، وتجنب الرعشة المتكررة."
+  },
+  {
+    "id": 44,
+    "end": 44,
+    "ar": "لام اسم الجلالة",
+    "fr": "Le lām du nom Allah",
+    "bodyAr": "تفخم لام اسم الله إذا سبقها فتح أو ضم، مثل «قالَ الله» و«عبدُ الله»، وترقق إذا سبقها كسر، مثل «بسمِ الله». العبرة بالحركة المنطوقة قبل اللام، ويجب أن يبقى التفخيم معتدلاً من غير ضم الشفتين أو إفساد الألف التابعة.",
+    "bodyFr": "Le lām du nom Allah est emphatique après une fatḥa ou une ḍamma, et léger après une kasra. La règle dépend du son réellement prononcé avant le lām. L’emphase doit rester mesurée : elle ne justifie ni arrondissement excessif des lèvres ni altération de l’alif qui suit.",
+    "verses": [
+      {
+        "n": 44,
+        "text": "وَفَخِّمِ اللَّامَ مِنِ اسْمِ «اللَّهِ» … عَنْ فَتْحٍ اَوْ ضَمٍّ كَـ «عَبْدُ اللَّهِ» ‌"
+      }
+    ],
+    "summaryFr": "Observez la voyelle précédente : ouverture et ḍamma appellent l’emphase, kasra l’allègement.",
+    "summaryAr": "انظر إلى الحركة السابقة للام اسم الله: فتح وضم للتفخيم، وكسر للترقيق."
+  },
+  {
+    "id": 45,
+    "end": 51,
+    "ar": "أحكام متفرقة والإدغام",
+    "fr": "Règles diverses et assimilation",
+    "bodyAr": "حروف الاستعلاء مفخمة، وحروف الإطباق أقوى تفخيماً. ثم يلفت الناظم إلى صيانة السواكن، وإظهار صفات الحروف المتجاورة، وإدغام المتماثلين والمتجانسين عند تحقق شروط الرواية. لا يصح تعميم الإدغام لمجرد التقارب؛ فالأمثلة التي أمر بإبانتها تمنع ذوبان حرف في آخر بسبب السرعة. هذا الباب تدريب دقيق على التوازن بين البيان وسلاسة التلاوة.",
+    "bodyFr": "Les lettres d’élévation sont emphatiques, celles d’iṭbāq l’étant plus fortement. Le texte demande ensuite de préserver les consonnes immobiles, de distinguer les lettres voisines et d’assimiler les lettres identiques ou homogènes lorsque les conditions de la transmission sont réunies. La proximité seule n’autorise pas une assimilation. Ce passage apprend à concilier netteté et fluidité.",
+    "verses": [
+      {
+        "n": 45,
+        "text": "وَحَرْفَ الِاسْتِعْلَاءِ فَخِّمْ، وَاخْصُصَا … لِاطْبَاقَ أَقْوَى؛ نَحْوُ: «قَالَ» وَ «العَصَا»"
+      },
+      {
+        "n": 46,
+        "text": "وَبَيِّنِ الإِطْبَاقَ مِنْ «أَحَطْتُ» مَعْ … «بَسَطْتَ»، وَالخُلْفُ بِـ «نَخْلُقْكُمْ» وَقَعْ"
+      },
+      {
+        "n": 47,
+        "text": "وَاحْرِصْ عَلَى السُّكُونِ فِي «جَعَلْنَا» … «أَنْعَمْتَ» وَ «المَغْضُوبِ» مَعْ «ضَلَلْنَا»"
+      },
+      {
+        "n": 48,
+        "text": "وَخَلِّصِ انْفِتَاحَ «مَحْذُوراً، عَسَى» … خَوْفَ اشْتِبَاهِهِ بِـ «مَحْظُوراً، عَصَى»"
+      },
+      {
+        "n": 49,
+        "text": "وَرَاعِ شِدَّةً بِكَافٍ وَبِتَا … كَـ «شِرْكِكُمْ» وَ «تَتَوَفَّى، فِتْنَتَا»"
+      },
+      {
+        "n": 50,
+        "text": "وَأَوَّلَيْ مِثْلٍ وَجِنْسٍ إِنْ سَكَنْ … أَدْغِمْ؛ كَـ «قُلْ رَبِّ» وَ «بَلْ لَا»، وَأَبِنْ"
+      },
+      {
+        "n": 51,
+        "text": "«فِي يَوْمِ» مَعْ «قَالُوا وَهُمْ» وَ «قُلْ نَعَمْ» … «سَبِّحْهُ، لَا تُزِغْ قُلُوبَ، فَالْتَقَمْ» ‌"
+      }
+    ],
+    "summaryFr": "N’assimilez que là où l’assimilation est transmise ; la clarté ne doit pas devenir un découpage artificiel.",
+    "summaryAr": "لا تدغم إلا حيث ثبت الإدغام، ولا تجعل البيان تقطيعاً متكلفاً."
+  },
+  {
+    "id": 52,
+    "end": 59,
+    "ar": "الضاد والظاء",
+    "fr": "Le ḍād et le ẓā",
+    "bodyAr": "يتميز الضاد عن الظاء بالمخرج والاستطالة: الضاد من إحدى حافتي اللسان أو كلتيهما مع ما يحاذيهما من الأضراس العليا، والظاء من طرف اللسان مع أطراف الثنايا العليا. يسرد الناظم أصول الكلمات القرآنية التي وردت بالظاء لتكون ضابطاً، وما عداها يكون بالضاد في الجملة مع الاستثناءات المذكورة. لا يكفي حفظ القائمة؛ ينبغي منع قلب الضاد ظاءً أو دالاً مفخمة، ومنع إخراج الظاء زايا مفخمة.",
+    "bodyFr": "Le ḍād se distingue du ẓā par son articulation et son allongement latéral. Le premier s’appuie sur un bord de la langue face aux molaires supérieures ; le second se réalise avec la pointe de la langue et les incisives supérieures. L’auteur énumère les racines coraniques écrites avec ẓā. Cette liste ne dispense pas du travail oral : il faut éviter de transformer le ḍād en ẓā ou en d emphatique, et le ẓā en z emphatique.",
+    "verses": [
+      {
+        "n": 52,
+        "text": "وَالضَّادَ بِاسْتِطَالَةٍ وَمَخْرَجِ … مَيِّزْ مِنَ الظَّاءِ، وَكُلُّهَا تَجِي"
+      },
+      {
+        "n": 53,
+        "text": "فِي «الظَّعْنِ، ظِلُّ، الظُّهْرِ، عُظْمُ، الحِفْظِ … أَيْقِظْ، وَأَنْظِرْ، عَظْمَ، ظَهْرِ، اللَّفْظِ"
+      },
+      {
+        "n": 54,
+        "text": "ظَاهِرْ، لَظَى، شُوَاظُ، كَظْمٍ، ظَلَمَا … أُغْلُظْ، ظَلَامَ، ظُفْرٍ، انْتَظِرْ، ظَمَا"
+      },
+      {
+        "n": 55,
+        "text": "أَظْفَرَ، ظَنّاً كَيْفَ جَا، وَعِظْ» سِوَى … «عِضِينَ»، «ظَلَّ»: النَّحْلِ، زُخْرُفٍ؛ سَوَا"
+      },
+      {
+        "n": 56,
+        "text": "وَ «ظَلْتَ، ظَلْتُمْ» وَبِرُومٍ: «ظَلُّوا» … كَالحِجْرِ: «ظَلَّتْ» شُعَرَا: «نَظَلُّ»"
+      },
+      {
+        "n": 57,
+        "text": "«يَظْلَلْنَ، مَحْظُوراً» مَعَ «المُحْتَظِرِ» … وَ «كُنْتَ فَظّاً» وَجَمِيعَ «النَّظَرِ»"
+      },
+      {
+        "n": 58,
+        "text": "إِلَّا بِـ «وَيْلٌ» «هَلْ» وَأُولَى «نَاضِرَهْ» … وَ «الغَيْظُ» لَا الرَّعْدُ وَهُودٌ؛ قَاصِرَهْ"
+      },
+      {
+        "n": 59,
+        "text": "وَ «الحَظُّ» لَا «الحَضُّ عَلَى الطَّعَامِ» … وَفِي «ظَنِينٍ»: الخِلَافُ سَامِي ‌"
+      }
+    ],
+    "summaryFr": "Mémorisez les racines en ẓā tout en corrigeant l’articulation ; ne transformez pas le ḍād en d emphatique.",
+    "summaryAr": "احفظ أصول كلمات الظاء مع تصحيح المخرج، ولا تجعل الضاد دالاً مفخمة."
+  },
+  {
+    "id": 60,
+    "end": 61,
+    "ar": "التحذيرات الأدائية",
+    "fr": "Précautions de récitation",
+    "bodyAr": "إذا تجاور الضاد والظاء وجب البيان حتى لا يندمج أحدهما في الآخر، مثل «أنقض ظهرك» و«يعض الظالم». وكذلك تُراعى الفروق في «اضطر» و«وعظت» و«أفضتم». وينبه الناظم إلى تصفية الهاء في نحو «جباههم» و«عليهم»؛ فلا تُبتلع بين الأصوات ولا تُبالغ حتى تنفصل عن الكلمة.",
+    "bodyFr": "Lorsque ḍād et ẓā se rencontrent, chacun doit rester distinct, comme dans « anqaḍa ẓahrak » et « yaʿaḍḍu ẓ-ẓālim ». D’autres voisinages demandent la même vigilance. Le hā doit aussi rester net dans des expressions comme « jibāhuhum » et « ʿalayhim » : ni avalé par les sons voisins, ni exagérément détaché.",
+    "verses": [
+      {
+        "n": 60,
+        "text": "وَإِنْ تَلَاقَيَا: البَيَانُ لَازِمُ … «أَنْقَضَ ظَهْرَكَ، يَعَضُّ الظَّالِمُ»"
+      },
+      {
+        "n": 61,
+        "text": "وَ «اضْطُرَّ» مَعْ «وَعَظْتَ» مَعْ «أَفَضْتُمُ» … وَصَفِّ «هَا»: «جِبَاهُهُمْ، عَلَيْهِمُ»"
+      }
+    ],
+    "summaryFr": "Préservez le temps et les qualités de chaque lettre contiguë sans pause fabriquée.",
+    "summaryAr": "أعط كل حرف زمنه وصفته عند التجاور من غير سكت مصطنع."
+  },
+  {
+    "id": 62,
+    "end": 64,
+    "ar": "النون والميم والميم الساكنة",
+    "fr": "Le nūn, le mīm et le mīm sākin",
+    "bodyAr": "الغنة صوت أغن يخرج من الخيشوم. تظهر كاملة في النون والميم المشددتين، وتخفى الميم الساكنة بغنة عند الباء، وتظهر عند بقية الحروف. ويُحذر خاصة عند الواو والفاء لقربهما من مخرج الميم، فلا تتحول الميم إلى خفاء غير منقول. مقدار الغنة وضبطها يُؤخذان بالسماع، لا بالعد الآلي وحده.",
+    "bodyFr": "La ghunna est une résonance nasale. Elle apparaît pleinement dans le nūn et le mīm redoublés. Le mīm immobile est caché avec ghunna devant bā et clairement prononcé devant les autres lettres. Une attention particulière est nécessaire devant wāw et fā, proches de sa zone d’articulation. La durée et la qualité de la ghunna se règlent par l’écoute, non par un comptage mécanique isolé.",
+    "verses": [
+      {
+        "n": 62,
+        "text": "وأَظْهِرِ الغُنَّةَ مِنْ: نُونٍ، وَمِنْ … مِيمٍ؛ إِذَا مَا شُدِّدَا، وَأَخْفِيَنْ"
+      },
+      {
+        "n": 63,
+        "text": "المِيمَ إِنْ تَسْكُنْ بِغُنَّةٍ لَدَى … بَاءٍ عَلَى المُخْتَارِ مِنْ أَهْلِ الأَدَا"
+      },
+      {
+        "n": 64,
+        "text": "وَأَظْهِرَنْهَا عِنْدَ: بَاقِي الأَحْرُفِ … وَاحْذَرْ لَدَى وَاوٍ وَفَا: أَنْ تَخْتَفِي"
+      }
+    ],
+    "summaryFr": "Placez la résonance dans le passage nasal et manifestez le mīm devant wāw et fā.",
+    "summaryAr": "اجعل الغنة من الخيشوم، وأظهر الميم عند الواو والفاء."
+  },
+  {
+    "id": 65,
+    "end": 68,
+    "ar": "النون الساكنة والتنوين",
+    "fr": "Le nūn sākin et le tanwīn",
+    "bodyAr": "للنون الساكنة والتنوين أربعة أحكام: الإظهار عند حروف الحلق، والإدغام في «يرملون»؛ بغير غنة في اللام والراء، وبغنة في «ينمو»، مع استثناء الإدغام داخل الكلمة نحو «الدنيا»؛ والإقلاب عند الباء؛ والإخفاء عند الحروف الباقية. مراتب الغنة تتأثر بقرب المخرج، لكن المطلوب للمبتدئ أولاً ثبات الحكم ومنع إظهار النون في الإخفاء أو تشديد الحرف التالي.",
+    "bodyFr": "Le nūn immobile et le tanwīn connaissent quatre règles : manifestation devant les lettres de gorge ; assimilation dans « yarmalūn », sans ghunna devant lām et rā, avec ghunna dans « yanmū » ; conversion devant bā ; dissimulation devant les autres lettres. L’assimilation avec ghunna n’a pas lieu à l’intérieur d’un même mot dans les exemples transmis comme « dunyā ». Le premier objectif est de stabiliser la règle sans faire réapparaître un nūn complet ni redoubler la lettre suivante.",
+    "verses": [
+      {
+        "n": 65,
+        "text": "وَحُكْمُ تَنْوِينٍ وَنُونٍ يُلْفَى … إِظْهَارٌ، ادْغَامٌ، وَقَلْبٌ، إِخْفَا"
+      },
+      {
+        "n": 66,
+        "text": "فَعِنْدَ حَرْفِ الحَلْقِ: أَظْهِرْ، وَادَّغِمْ … فِي اللَّامِ وَالرَّا لَا بِغُنَّةٍ لَزِمْ"
+      },
+      {
+        "n": 67,
+        "text": "وَأَدْغِمَنْ بِغُنَّةٍ فِي: «يُومِنُ» … إِلَّا بِكِلْمَةٍ؛ كَـ «دُنْيَا، عَنْوَنُوا»"
+      },
+      {
+        "n": 68,
+        "text": "وَالقَلْبُ عِنْدَ: البَا بِغُنَّةٍ، كَذَا … لِاخْفَا لَدَى: بَاقِي الحُرُوفِ؛ أُخِذَا"
+      }
+    ],
+    "summaryFr": "Classez les quatre règles et associez chacune à ses lettres et à un exemple entendu.",
+    "summaryAr": "رتب الأحكام الأربعة، واربط كل حكم بحروفه ومثال مسموع."
+  },
+  {
+    "id": 69,
+    "end": 72,
+    "ar": "المدود",
+    "fr": "Les prolongations",
+    "bodyAr": "جمع الناظم المدود الفرعية في ثلاثة: لازم، وواجب متصل، وجائز منفصل أو عارض للسكون. المد اللازم بعد حرف المد سكون أصلي ثابت وصلاً ووقفاً، والمتصل يجتمع فيه حرف المد والهمز في كلمة، والمنفصل يكون حرف المد في آخر كلمة والهمز في أول التالية، والعارض سببه سكون الوقف. المقادير العملية تختلف باختلاف الرواية والطريق؛ فلا تُؤخذ من هذه الأبيات وحدها، بل من الشيخ والطريق المقروء به.",
+    "bodyFr": "Le poème regroupe les prolongations secondaires en trois catégories : nécessaire, obligatoire liée, et permise — séparée ou occasionnée par l’arrêt. Le nécessaire est suivi d’une immobilité originelle stable ; le lié réunit lettre de prolongation et hamza dans un mot ; le séparé les répartit sur deux mots ; l’occasionnel résulte de l’arrêt. Les durées concrètes dépendent de la lecture et de la voie de transmission : elles doivent être reçues oralement.",
+    "verses": [
+      {
+        "n": 69,
+        "text": "وَالمَدُّ: لَازِمٌ، وَوَاجِبٌ أَتَى … وَجَائِزٌ، وَهْوَ وَقَصْرٌ ثَبَتَا"
+      },
+      {
+        "n": 70,
+        "text": "فَلَازِمٌ: إِنْ جَاءَ بَعْدَ حَرْفِ مَدْ … سَاكِنُ حَالَيْنِ، وَبِالطُّولِ يُمَدْ"
+      },
+      {
+        "n": 71,
+        "text": "وَوَاجِبٌ: إِنْ جَاءَ قَبْلَ هَمْزَةِ … مُتَّصِلاً؛ إِنْ جُمِعَا بِكِلْمَةِ"
+      },
+      {
+        "n": 72,
+        "text": "وَجَائِزٌ: إِذَا أَتَى مُنْفَصِلَا … أَوْ عَرَضَ السُّكُونُ وَقْفاً مُسْجَلَا"
+      }
+    ],
+    "summaryFr": "Identifiez d’abord la cause de la prolongation, puis respectez la durée de la voie étudiée.",
+    "summaryAr": "حدد سبب المد أولاً، ثم التزم مقدار الرواية والطريق."
+  },
+  {
+    "id": 73,
+    "end": 78,
+    "ar": "الوقف والابتداء",
+    "fr": "L’arrêt et la reprise",
+    "bodyAr": "الوقف والابتداء جزء من سلامة المعنى. التام ينقطع عما بعده لفظاً ومعنى، والكافي يتعلق به معنى لا لفظاً، والحسن يتم به كلام مفيد مع تعلق لفظي بما بعده، والقبيح يفسد المعنى أو يترك الكلام ناقصاً. يجوز الوقف الاضطراري عند ضيق النفس ثم يُستأنف بما يستقيم به المعنى. وقوله «ليس في القرآن من وقف وجب ولا حرام» ينفي أن العلامة بذاتها حكم تعبدي قطعي؛ أما تعمد وقف يفسد المعنى فله سبب يقتضي المنع.",
+    "bodyFr": "L’arrêt et la reprise protègent le sens. L’arrêt complet est indépendant de la suite dans la syntaxe et le sens ; le suffisant conserve un lien de sens ; le bon forme un énoncé utile mais reste lié grammaticalement ; le mauvais coupe un sens incomplet ou trompeur. Un manque de souffle autorise un arrêt contraint, suivi d’une reprise convenable. L’absence d’un arrêt intrinsèquement obligatoire ou interdit ne permet pas de couper volontairement à un endroit qui déforme le sens.",
+    "verses": [
+      {
+        "n": 73,
+        "text": "وَبَعْدَ تَجْوِيدِكَ لِلْحُرُوفِ … لَا بُدَّ مِنْ مَعْرِفَةِ الوُقُوفِ"
+      },
+      {
+        "n": 74,
+        "text": "وَالِابْتِدَاءِ، وَهْيَ تُقْسَمُ إِذَنْ … ثَلَاثَةً: تَامٌ، وَكَافٍ، وَحَسَنْ"
+      },
+      {
+        "n": 75,
+        "text": "وَهْيَ لِمَا تَمَّ؛ فَإِنْ لَمْ يُوجَدِ … تَعَلُّقٌ، أَوْ كَانَ مَعْنىً؛ فَابْتَدِي"
+      },
+      {
+        "n": 76,
+        "text": "فَالتَّامُ، فَالكَافِي، وَلَفْظاً: فَامْنَعَنْ … إِلَّا رُؤُوسَ الآيِ جَوِّزْ، فَالحَسَنْ"
+      },
+      {
+        "n": 77,
+        "text": "وَغَيْرُ مَا تَمَّ قَبِيحٌ، وَلَهُ … الوَقْفُ مُضْطَرّاً؛ وَيَبْدَا قَبْلَهُ"
+      },
+      {
+        "n": 78,
+        "text": "وَلَيْسَ فِي القُرْآنِ مِنْ وَقْفٍ وَجَبْ … وَلَا حَرَامٌ؛ غَيْرُ مَا لَهُ سَبَبْ ‌"
+      }
+    ],
+    "summaryFr": "Comprenez le sens avant de vous arrêter ; après un arrêt contraint, reprenez à un endroit cohérent.",
+    "summaryAr": "افهم المعنى قبل الوقف، وإذا اضطررت فأعد الابتداء بما يستقيم."
+  },
+  {
+    "id": 79,
+    "end": 93,
+    "ar": "المقطوع والموصول",
+    "fr": "Les mots séparés et joints dans le muṣḥaf",
+    "bodyAr": "هذا الباب من علم رسم المصحف، لا من الإملاء المعاصر. يذكر مواضع كلمات كُتبت مفصولة أو موصولة في المصحف الإمام، لما يترتب على ذلك من كيفية الوقف عند الاضطرار أو الاختبار. كثرة الأسماء والإشارات لا تصلح للتخمين؛ يجب الرجوع إلى مصحف مضبوط وكتاب رسم موثوق. وللمبتدئ يكفي فهم القاعدة ووضع علامات على المواضع، ثم حفظها على مجموعات بحسب الكلمة والسورة.",
+    "bodyFr": "Ce chapitre relève de l’orthographe du muṣḥaf, non de l’écriture arabe moderne. Il recense des mots copiés séparément ou conjointement dans le muṣḥaf de référence, ce qui influe notamment sur l’arrêt pédagogique ou contraint. Ces listes ne doivent pas être devinées : on les vérifie dans un muṣḥaf contrôlé et un ouvrage fiable sur le rasm. Le débutant peut les mémoriser par familles de mots et par sourates.",
+    "verses": [
+      {
+        "n": 79,
+        "text": "وَاعْرِفْ لِمَقْطُوعٍ وَمَوْصُولٍ وَ «تَا» … فِي المُصْحَفِ الإِمَامِ فِيمَا قَدْ أَتَى"
+      },
+      {
+        "n": 80,
+        "text": "فَاقْطَعْ بِعَشْرِ كَلِمَاتٍ: «أَنْ لَا» … مَعْ «مَلْجَأً» وَ «لَا إِلَهَ إِلَّا»"
+      },
+      {
+        "n": 81,
+        "text": "وَ «تَعْبُدُوا» يَاسِينَ، ثَانِي هُودَ «لَا … يُشْرِكْنَ، تُشْرِكْ، يَدْخُلَنْ، تَعْلُوا عَلَى"
+      },
+      {
+        "n": 82,
+        "text": "أَنْ لَا يَقُولُوا، لَا أَقُولَ»، «إِنْ مَا» … بِالرَّعْدِ، وَالمَفْتُوحَ صِلْ، وَ «عَنْ مَا"
+      },
+      {
+        "n": 83,
+        "text": "نُهُوا» اقْطَعُوا؛ «مِنْ مَا» بِرُومٍ وَالنِّسَا … خُلْفُ المُنَافِقِينَ، «أَمْ مَنْ»: «أَسَّسَا»"
+      },
+      {
+        "n": 84,
+        "text": "فُصِّلَتِ، النِّسَا، وَذِبْحٍ، «حَيْثُ مَا» … وَ «أَنْ لَمِ» المَفْتُوحَ، كَسْرَ «إِنَّ مَا»"
+      },
+      {
+        "n": 85,
+        "text": "لَانْعَامَ، وَالمَفْتُوحَ «يَدْعُونَ» مَعَا … وَخُلْفُ الَانْفَالِ، وَنَحْلٍ وَقَعَا"
+      },
+      {
+        "n": 86,
+        "text": "وَ «كُلِّ مَا سَأَلْتُمُوهُ»، وَاخْتُلِفْ … «رُدُّوا» كَذَا «قُلْ بِئْسَمَا»، وَالوَصْلَ صِفْ"
+      },
+      {
+        "n": 87,
+        "text": "«خَلَفْتُمُونِي» وَ «اشْتَرَوْا»، «فِي مَا» اقْطَعَا … «أُوحِي، أَفَضْتُمُ، اشْتَهَتْ، يَبْلُو» مَعَا"
+      },
+      {
+        "n": 88,
+        "text": "ثَانِي «فَعَلْنَ» وَقَعَتْ، رُومٌ، كِلَا … تَنْزِيلُ، ظُلَّةٍ، وَغَيْرَهَا: صِلَا"
+      },
+      {
+        "n": 89,
+        "text": "«فَأَيْنَمَا» كَالنَّحْلِ: صِلْ، وَمُخْتَلِفْ … فِي: الشُّعَرَا، الأَحْزَابِ، وَالنِّسَا؛ وُصِفْ"
+      },
+      {
+        "n": 90,
+        "text": "وَصِلْ: «فَإِلَّمْ» هُودَ «أَلَّنْ نَجْعَلَا» … «نَجْمَعَ» «كَيْلَا تَحْزَنُوا، تَأْسَوْا عَلَى"
+      },
+      {
+        "n": 91,
+        "text": "حَجٌّ، عَلَيْكَ حَرَجٌ»، وَقَطْعُهُمْ … «عَنْ مَنْ يَشَاءُ، مَنْ تَوَلَّى» «يَوْمَ هُمْ»"
+      },
+      {
+        "n": 92,
+        "text": "«وَمَالِ هَذَا، وَالَّذِينَ، هَؤُلَا» … «تَحِينَ» فِي الإِمَامِ صِلْ؛ وَوُهِّلَا"
+      },
+      {
+        "n": 93,
+        "text": "وَ «وَزَنُوهُمُ، وَكَالُوهُمْ»: صِلِ … كَذَا مِنَ «الْ» وَ «هَا» وَ «يَا»؛ لَا تَفْصِلِ ‌"
+      }
+    ],
+    "summaryFr": "Étudiez ce chapitre comme une mémorisation du rasm et vérifiez chaque emplacement dans une source fiable.",
+    "summaryAr": "تعامل مع الباب بوصفه حفظاً لرسم المصحف، وراجع كل موضع في مصدر معتمد."
+  },
+  {
+    "id": 94,
+    "end": 100,
+    "ar": "التاءات المفتوحة",
+    "fr": "Les tā écrits ouverts",
+    "bodyAr": "تُكتب تاء التأنيث في غالب الكلمات مربوطة ويوقف عليها بالهاء، لكن رسم المصحف أثبتها مفتوحة في مواضع مخصوصة مثل بعض مواضع «رحمت» و«نعمت» و«امرأت». يسرد الناظم تلك المواضع، ويترتب عليها الوقف بالتاء لمن وقف عليها. اختلاف القراءات أو الروايات في بعض المواضع يوجب الرجوع إلى المصحف الموافق للطريق، فلا تُنقل أحكام مصحف إلى آخر بلا تحقق.",
+    "bodyFr": "La marque du féminin est généralement écrite sous forme liée et devient hā à l’arrêt. Le rasm coranique l’a toutefois conservée ouverte dans des emplacements précis, notamment pour certaines occurrences de « raḥmat », « niʿmat » et « imra’at » ; on s’y arrête alors avec un t. Les différences liées aux lectures imposent d’utiliser le muṣḥaf correspondant à la voie étudiée.",
+    "verses": [
+      {
+        "n": 94,
+        "text": "وَ «رَحْمَتُ»: الزُّخْرُفِ بِالتَّا زَبَرَهْ … لَاعْرَافِ، رُومٍ، هُودَ، كَافَ، البَقَرَهْ"
+      },
+      {
+        "n": 95,
+        "text": "«نِعْمَتُـ» ـهَا: ثَلَاثُ نَحْلٍ، إِبْرَهَمْ … مَعاً أَخِيرَاتٌ، عُقُودُ الثَّانِ «هَمْ»"
+      },
+      {
+        "n": 96,
+        "text": "لُقْمَانُ، ثُمَّ فَاطِرٌ، كَالطُّورِ … عِمْرَانَ، «لَعْنَتٌ»: بِهَا، وَالنُّورِ"
+      },
+      {
+        "n": 97,
+        "text": "وَ «امْرَأَتٌ»: يُوسُفَ، عِمْرَانَ، القَصَصْ … تَحْرِيمُ، «مَعْصِيَتْ»: بِقَدْ سَمِعْ يُخَصْ"
+      },
+      {
+        "n": 98,
+        "text": "«شَجَرَتُ»: الدُّخَانِ، «سُنَّتْ»: فَاطِرِ … كُلّاً، وَالَانْفَالِ، وَأُخْرَى غَافِرِ"
+      },
+      {
+        "n": 99,
+        "text": "«قُرَّتُ عَيْنٍ»، «جَنَّتٌ»: فِي وَقَعَتْ … «فِطْرَتْ، بَقِيَّتْ، وَابْنَتٌ»، وَ «كَلِمَتْ»"
+      },
+      {
+        "n": 100,
+        "text": "أَوْسَطَ الَاعْرَافِ، وَكُلُّ مَا اخْتُلِفْ … جَمْعاً وَفَرْداً فِيهِ: بِالتَّاءِ عُرِفْ ‌"
+      }
+    ],
+    "summaryFr": "Repérez le tā ouvert dans le rasm et son effet lors de arrêt.",
+    "summaryAr": "ميز التاء المفتوحة في الرسم، واعرف أثرها في الوقف."
+  },
+  {
+    "id": 101,
+    "end": 103,
+    "ar": "همز الوصل",
+    "fr": "La hamza de liaison",
+    "bodyAr": "همزة الوصل تثبت في الابتداء وتسقط في درج الكلام. في الفعل يُبدأ بها مضمومة إذا كان ثالث الفعل مضموماً ضماً أصلياً، وتُكسر إذا كان الثالث مفتوحاً أو مكسوراً. وفي الأسماء السماعية المذكورة يبدأ بالكسر، أما مع لام التعريف فيبدأ بالفتح. لا يُبنى الحكم على شكل الكلمة في الوقف، بل على بنائها وحركة الحرف الثالث الأصلية.",
+    "bodyFr": "La hamza de liaison se prononce au début et tombe dans la continuité. Dans un verbe, elle reçoit une ḍamma si la troisième lettre porte une ḍamma originelle ; elle reçoit une kasra si cette troisième lettre est ouverte ou cassée. Dans les noms transmis par l’usage et énumérés dans le poème, on commence par une kasra ; avec l’article défini, par une fatḥa. Il faut considérer la structure originelle du mot.",
+    "verses": [
+      {
+        "n": 101,
+        "text": "وَابْدَأْ بِهَمْزِ الوَصْلِ مِنْ فِعْلٍ بِضَمْ … إِنْ كَانَ ثَالِثٌ مِنَ الفِعْلِ يُضَمْ"
+      },
+      {
+        "n": 102,
+        "text": "وَاكْسِرْهُ حَالَ الكَسْرِ وَالفَتْحِ، وَفِي … لَاسْمَاءِ - غَيْرِ اللَّامِ - كَسْرُهَا وَفِيّْ"
+      },
+      {
+        "n": 103,
+        "text": "ابْنٍ، مَعَ ابْنَةِ، امْرِئٍ، وَاثْنَيْنِ … وَامْرَأَةٍ، وَاسْمٍ، مَعَ اثْنَتَيْنِ"
+      }
+    ],
+    "summaryFr": "Distinguez commencement et liaison, puis examinez la voyelle originelle de la troisième lettre du verbe.",
+    "summaryAr": "ميّز الابتداء من الوصل، وانظر إلى حركة ثالث الفعل الأصلية."
+  },
+  {
+    "id": 104,
+    "end": 105,
+    "ar": "الوقف على أواخر الكلم",
+    "fr": "L’arrêt sur les fins de mots",
+    "bodyAr": "الأصل الوقف بالسكون المحض، فلا تُنطق الحركة كاملة عند الوقف. الروم إضعاف صوت الحركة حتى يسمعه القريب، ويدخل في الضم والكسر دون الفتح. الإشمام ضم الشفتين بعد إسكان الحرف إشارة إلى الضمة، فيُرى ولا يُسمع، ويكون في المضموم والمرفوع. هذان الوجهان من دقائق الأداء ويحتاجان إلى مشاهدة ومشافهة.",
+    "bodyFr": "L’arrêt normal se fait par immobilisation complète : la voyelle finale ne doit pas être prononcée entièrement. Le rawm consiste à faire entendre une faible partie de la voyelle au proche auditeur ; il concerne kasra et ḍamma, non fatḥa. L’ishmām est un arrondissement des lèvres après l’immobilisation pour indiquer la ḍamma ; il se voit sans s’entendre. Ces deux procédés exigent une démonstration directe.",
+    "verses": [
+      {
+        "n": 104,
+        "text": "وَحَاذِرِ الوَقْفَ بِكُلِّ الحَرَكَهْ … إِلَّا إِذَا رُمْتَ فَبَعْضُ الحَرَكَهْ"
+      },
+      {
+        "n": 105,
+        "text": "إِلَّا بِفَتْحٍ أَوْ بِنَصْبٍ، وَأَشِمْ … إِشَارَةً بِالضَّمِّ: فِي رَفْعٍ وَضَمْ"
+      }
+    ],
+    "summaryFr": "Ne prononcez pas la voyelle complète à l’arrêt ; recevez rawm et ishmām par démonstration.",
+    "summaryAr": "لا تقف بالحركة كاملة، وتلقَّ الروم والإشمام بالمشاهدة."
+  },
+  {
+    "id": 106,
+    "end": 109,
+    "ar": "الخاتمة",
+    "fr": "Conclusion",
+    "bodyAr": "يختم الناظم بحمد الله والصلاة والسلام على النبي محمد صلى الله عليه وسلم وآله وصحبه ومن تبع طريقهم. ويشير بحساب الجُمّل إلى عدد الأبيات في نسخة من النظم. اختلاف عد الأبيات ناشئ غالباً من ضم بعض الأبيات أو فصلها، لا من اختلاف جوهر أبواب المنظومة. ثمرة الدراسة ليست إنهاء الحفظ فقط، بل إحسان التلاوة مع دوام التلقي والتواضع.",
+    "bodyFr": "L’auteur conclut par la louange d’Allah et la prière sur le prophète Muhammad — paix et bénédictions sur lui —, sa famille, ses compagnons et leurs continuateurs. Il indique le nombre des vers par la valeur numérique des lettres. Les décomptes de 107 ou 109 proviennent surtout de la réunion ou de la séparation de certains vers. La finalité n’est pas seulement de terminer la mémorisation, mais d’améliorer durablement la récitation dans l’humilité et la transmission.",
+    "verses": [
+      {
+        "n": 106,
+        "text": "وَقَدْ تَقَضَّى نَظْمِيَ «المُقَدِّمَهْ» … مِنِّي لِقَارِئِ القُرَانِ تَقْدِمَهْ"
+      },
+      {
+        "n": 107,
+        "text": "أَبْيَاتُهَا قَافٌ وَزَاىٌ فِي الْعَدَدْ … مَنْ يُحْسِنِ التَّجْوِيدَ يَظْفَرْ بِالرَّشَدْ"
+      },
+      {
+        "n": 108,
+        "text": "وَالحَمْدُ لِلَّهِ لَهَا خِتَامُ … ثُمَّ الصَّلَاةُ بَعْدُ وَالسَّلَامُ"
+      },
+      {
+        "n": 109,
+        "text": "عَلَى النَّبِيِّ الْمُصْطَفَى وَآلِهِ … وَصَحْبِهِ وَتَابِعِ مِنْوَالِهِ"
+      }
+    ],
+    "summaryFr": "Faites de la correction réelle, et non de la simple récitation du texte, le fruit de la mémorisation.",
+    "summaryAr": "اجعل ثمرة الحفظ تصحيح الأداء، لا مجرد ختم الأبيات."
+  }
+]
