@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import {execFileSync} from 'node:child_process';
-import {chapterGroups,resolveRoute,splitParagraphs,completionCount,escapeHtml} from './dist/reader-core.mjs';
+import {chapterGroups,resolveRoute,resolveLocation,routePath,splitParagraphs,completionCount,escapeHtml} from './dist/reader-core.mjs';
 const chapters=JSON.parse(fs.readFileSync('dist/content.json','utf8'));
 const previous=JSON.parse(execFileSync('git',['show','HEAD:dist/content.json'],{encoding:'utf8'}));
 const normalize=s=>s.replace(/\s+/g,' ').trim();
@@ -22,6 +22,11 @@ for(const [i,c] of chapters.entries()){
 }
 assert.equal(resolveRoute('#sommaire',chapters).type,'contents');
 assert.equal(resolveRoute('#glossaire',chapters).type,'glossary');
+assert.equal(resolveLocation('/ar/sommaire/','',chapters).type,'contents');
+assert.equal(resolveLocation('/fr/glossaire/','',chapters).type,'glossary');
+assert.deepEqual(resolveLocation('/ar/bayt/9/','',chapters),{type:'article',id:9,verse:9});
+assert.equal(routePath('fr',{type:'article',verse:109}),'/fr/bayt/109/');
+assert.equal(routePath('ar',{type:'chapter',id:9,mode:'practice'}),'/ar/chapitre/9/pratique/');
 for(const bad of ['','#invalid','#999','#1/unknown','#<script>'])assert.equal(resolveRoute(bad,chapters).id,1);
 assert.equal(completionCount([true,false,true,false]),2);
 assert.equal(completionCount([false,false,false,false]),0);
@@ -41,4 +46,11 @@ for(const entry of ['dist/index.html','dist/fr/index.html','dist/ar/index.html']
 }
 const gloss=JSON.parse(fs.readFileSync('dist/glossary.json'));
 assert.equal(gloss.fr.length,20);assert.equal(gloss.ar.length,20);
+for(const lang of ['ar','fr'])for(let n=1;n<=109;n++){
+ const route=`dist/${lang}/bayt/${n}/index.html`,html=fs.readFileSync(route,'utf8');
+ assert.ok(html.includes(`<html lang="${lang}"`));
+ assert.ok(html.includes(`property="og:url" content="https://jazariyya-pas-a-pas.vercel.app/${lang}/bayt/${n}/"`));
+ assert.ok(html.includes(lang==='ar'?'og-jazariyya-calm-guide-2026.png':'og-jazariyya-calm-guide-fr-2026.png'));
+}
+assert.ok(fs.readFileSync('dist/sitemap.xml','utf8').includes('/fr/makhraj/qaf/'));
 console.log('PASS: 19 chapters, 109 preserved verses, both languages, 38 chapter routes, glossary, summaries, paragraph integrity, entrypoints and checklist calculations.');

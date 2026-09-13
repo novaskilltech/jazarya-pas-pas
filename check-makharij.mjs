@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {resolveRoute} from './dist/reader-core.mjs';
+import {resolveRoute,resolveLocation} from './dist/reader-core.mjs';
 import {ficheText,relatedFiches} from './dist/makharij-core.mjs';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const fiches=read('dist/makharij.json'),chapters=read('dist/content.json'),articles=read('dist/articles.json');
@@ -12,6 +12,7 @@ for(const f of fiches){
  for(const lang of ['fr','ar']){
   const localized=new URL('/'+lang+'/'+hash,'https://example.com');
   assert.deepEqual(resolveRoute(localized.hash,chapters,fiches),{type:'fiche',id:9,fiche:f.id});
+  assert.deepEqual(resolveLocation(localized.pathname.replace('/#','/')+`makhraj/${f.id}/`,'',chapters,fiches),{type:'fiche',id:9,fiche:f.id});
   assert.ok(f[lang].title&&f[lang].observation);
   const copied=ficheText(f,lang,localized.href);
   for(const required of [f[lang].observation,f.source.url,f.reference.url,localized.href])assert.ok(copied.includes(required));

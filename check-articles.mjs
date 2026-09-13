@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {resolveRoute} from './dist/reader-core.mjs';
+import {resolveRoute,resolveLocation} from './dist/reader-core.mjs';
 import {articleText, verseText, verseAttribution, writeClipboard} from './dist/article-core.mjs';
 
 const chapters=JSON.parse(fs.readFileSync('dist/content.json','utf8'));
@@ -11,6 +11,7 @@ for(const c of chapters){
   assert.deepEqual(resolveRoute(`#${c.id}/tafsil`,chapters),{type:'chapter',id:c.id,mode:'details'});
   for(const verse of c.verses){
     assert.deepEqual(resolveRoute(`#bayt/${verse.n}`,chapters),{type:'article',id:c.id,verse:verse.n});
+    assert.deepEqual(resolveLocation(`/fr/bayt/${verse.n}/`,'',chapters),{type:'article',id:c.id,verse:verse.n});
     const article=articles.find(a=>a.n===verse.n);
     for(const lang of ['ar','fr']){
       const e=article[lang],url=`https://example.com/${lang}/#bayt/${verse.n}`;
